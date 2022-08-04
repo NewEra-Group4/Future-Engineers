@@ -1,0 +1,14 @@
+ 10.  How do you revert a previous commit in git.
+      ANS: to revert a commit the GitKraken,simply right-click on any central graph andselect revert commit from the context
+            menu.
+
+  11. What is git cherry-pick?:
+      ANS: git cherry is a powewrful commnad that enables arbitary Git commits to be picked by references and appended to the current
+         working head.
+
+  12. What is the function of git push?:
+      ANS: the git push command is used to upload local repository content to aremote repository.
+   
+  13. What is the difference between git checkout and git clone?:
+      ANS:git clone is to fetch your repositories from the remote git server and Git
+         checkout is to checkout your desired status of your repositories like branches or a particular file
