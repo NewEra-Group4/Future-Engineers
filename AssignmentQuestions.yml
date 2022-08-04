@@ -5,7 +5,7 @@
   3. What are the steps to unstage files and discard the changes in working directory?:
   To unstage a file you would use the git restore command, and to discard the changes in the working directory you would use the git checkout command.
   4. What is git branch?:
-  Branch is a reference to to a particular commit.
+  Branch is a reference to a particular commit.
   5. How do you check if git is insalled?:
   To check the version of git you would use the "git version" command.
   6. How do you know the status of your local repository and what other information does it show?:
