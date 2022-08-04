@@ -1,8 +1,12 @@
-  1. What is git commit?: 
+  1. What is git commit?:
+  Commits are saved changes to the git repository that impacts history and are uniquely identified by the SHA-1 hash. 
   2. What is git stash?:
+  When you wanna store your changes to your work to be applied for a later time.
   3. What are the steps to unstage files and discard the changes in working directory?:
+  To unstage a file you would use the git restore command, and to discard the changes in the working directory you would use the git checkout command.
   4. What is git branch?:
   5. How do you check if git is insalled?:
+  To check the version of git you would use the "git version" command.
   6. How do you know the status of your local repository and what other information does it show?:
   7. What are the different ways to add/stage files/changes to the git repository?:
   8. Can we combine commands when working with commands in git? How?:
@@ -26,7 +30,10 @@
 
 Teammate 1 - Amaechi
   1. In your organisation, what is your branching strategy?:
+  The strategy is that each team member is tasked in creating their own branch under master.
+  After they create their own branch they will add, commit, and push their edited file to their branch.
   2. Tell me about your git environment?:
+  The git enviorment consist of the working directory, the staging area, local repository, and the remote repote repository.
 
 Teammate 2 - Prince
   1. In your organisation, what is your branching strategy?:
