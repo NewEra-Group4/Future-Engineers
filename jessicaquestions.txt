@@ -1,0 +1,4 @@
+  10. How do you revert a previous commit in git?:
+  11. What is git cherry-pick?:
+  12. What is the function of git push?:
+  13. What is the difference between git checkout and git clone?:
