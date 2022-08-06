@@ -48,8 +48,16 @@ Teammate 1 - Amaechi
   The git enviorment consist of the working directory, the staging area, local repository, and the remote repote repository.
 
 Teammate 2 - Prince
-  1. In your organisation, what is your branching strategy?:
+  1. In your organisation, what is your branching strategy?: 
+  As a senior devops engineer, I ensure that when a projec is initiated, I select my team, create a repository in the
+  master branch, create a dev branch and set a policies for my team to create their individual branch, so that way 
+  nobody works from the master branch, when they are all done with their code the do a pull or merge request to the dev
+  for an assign egineer to verify. ones everything looks good, it can be merged to the dev branch for review before 
+  merging to the master or main branch
   2. Tell me about your git environment?:
+   Git environment which could be github, gitlab or gitbucket, is an environment where the project is initiated and the 
+   codes are being assigned to engineers through branching system for them to validate,compile,test package,install,
+   deploy and the review before it is set off for production
 
 Teammate 3 - Jessica
   1. In your organisation, what is your branching strategy?:
