@@ -55,9 +55,10 @@ Teammate 2 - Prince
   for an assign egineer to verify. ones everything looks good, it can be merged to the dev branch for review before 
   merging to the master or main branch
   2. Tell me about your git environment?:
-   Git environment which could be github, gitlab or gitbucket, is an environment where the project is initiated and the 
+   Git environment which could be github, gitlab, local repo or gitbucket, is an environment where the project is initiated and the 
    codes are being assigned to engineers through branching system for them to validate,compile,test package,install,
-   deploy and the review before it is set off for production
+   deploy and the review before it is set off for production.
+   It  consist of the working directory, the staging area, local repository, and the remote repote repository.
 
 Teammate 3 - Jessica
   1. In your organisation, what is your branching strategy?:
