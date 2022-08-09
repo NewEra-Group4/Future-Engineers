@@ -9,10 +9,21 @@
   5. How do you check if git is insalled?:
   To check the version of git you would use the "git version" command.
   6. How do you know the status of your local repository and what other information does it show?:
+    - Ans You know the status of you local repository by using the command "git status". It shows you 
+  the files that are previously or new added to the repository, files that are modified and files
+  that are modifile. It also gives instruction or commands to update your files that need to be 
+  commited, addintionally it shows you how to restor files and discard chnages.
   7. What are the different ways to add/stage files/changes to the git repository?:
+   - Ans You can add a file from your local machine or terminal using "git add <filename>", or remotely on github.
   8. Can we combine commands when working with commands in git? How?:
+   - Ans Yes, we can combine command when working with commands in git. One can run a command to carry out 
+  multiple functions for example " $ git add . | git commit -m 'some message' | git push | cap deploy "
   9. What is the difference between git pull and git fetch?:
+   - Ans git pull is combination of git fetch plus git merge it retrieves latest meta-data info from the 
+  original and copy the changes, while git fetch only retries the latest meta-data without doing any file
+  transferring.
   10. How do you revert a previous commit in git?:
+   - Ans To revert a commit in git you will use the command "git revert"  and specify if it is a hard or soft revert
   11. What is git cherry-pick?:
   12. What is the function of git push?:
   13. What is the difference between git checkout and git clone?:
@@ -37,8 +48,17 @@ Teammate 1 - Amaechi
   The git enviorment consist of the working directory, the staging area, local repository, and the remote repote repository.
 
 Teammate 2 - Prince
-  1. In your organisation, what is your branching strategy?:
+  1. In your organisation, what is your branching strategy?: 
+  As a senior devops engineer, I ensure that when a projec is initiated, I select my team, create a repository in the
+  master branch, create a dev branch and set a policies for my team to create their individual branch, so that way 
+  nobody works from the master branch, when they are all done with their code the do a pull or merge request to the dev
+  for an assign egineer to verify. ones everything looks good, it can be merged to the dev branch for review before 
+  merging to the master or main branch
   2. Tell me about your git environment?:
+   Git environment which could be github, gitlab, local repo or gitbucket, is an environment where the project is initiated and the 
+   codes are being assigned to engineers through branching system for them to validate,compile,test package,install,
+   deploy and the review before it is set off for production.
+   It  consist of the working directory, the staging area, local repository, and the remote  repository.
 
 Teammate 3 - Jessica
   1. In your organisation, what is your branching strategy?:
